@@ -20,7 +20,7 @@ class BiliBiliData(object):
             'accept': '*/*',
             'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
             'content-length': '0',
-            'cookie': "buvid3=2D1018A0-E2F7-0517-C601-D1AE90072E9D39168infoc; b_nut=1679404239; buvid4=72136907-9D5A-6AF7-EF4E-64492E1F4C2839168-023032121-7XDfT9HnZ76pdv5dhaSPnRVW74fij0RhyY+PYlxgGUr1++9bvG67iA==; innersign=0; i-wanna-go-back=-1; b_ut=7; b_lsid=1031E6366_187044B1297; _uuid=B5D495B1-B98A-DE1C-DCF9-5BD18E77BECB41565infoc; header_theme_version=CLOSE; home_feed_column=5; buvid_fp=fb26f5ade3d50acc5001fe7b00038e57",
+            'cookie': "Your Cookie",
             'origin': 'https://www.bilibili.com',
             'referer': 'https://www.bilibili.com/',
             'sec-ch-ua': '"Microsoft Edge";v="111", "Not(A:Brand";v="8", "Chromium";v="111"',
